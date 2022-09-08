@@ -1,6 +1,7 @@
 # How to Make a Grain Bowl
 
 Grain bowls are a delicious, nutritious, and filling meal. They typically contain a grain such as rice or quinoa as a base and a protein along with other tasty additions. 
+![grain bowl](grain_bowl.jpg)
 
 ## Ingredients
 * 1/3 cup brown rice 
