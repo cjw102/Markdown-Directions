@@ -29,7 +29,8 @@ Grain bowls are a delicious, nutritious, and filling meal. They typically contai
 5. Cut tofu into small squares using knife. 
 6. Place rice in pot and fill with water until rice is completely submerged. 
 7. Place pot on stove and set heat to 'medium'. Let rice cook for 20 minutes, or until it is sufficiently soft. 
-8. When the oven has finished preheating, place broccoli and tofu on baking pan and place in the oven. For extra flavor, add olive oil and salt onto the broccoli. Leave in oven for 45 minutes. 
+8. When the oven has finished preheating, place broccoli, chickpeas and tofu on baking pan and place in the oven. For extra flavor, add olive oil and salt onto the broccoli. Leave in oven for 30 minutes. 
+[broccoli and chickpeas](broccoli_chickpeas.jpg)
 9. When all items are finished cooking, mix into bowl. 
 10. Enjoy your meal!
 
