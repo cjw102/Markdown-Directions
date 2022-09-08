@@ -6,7 +6,7 @@ Grain bowls are a delicious, nutritious, and filling meal. They typically contai
 * 1/3 cup brown rice 
 * 1/3 cup broccoli
 * 1/3 block firm tofu
-* 1/3 cup chickpeas
+* 1/3 cup canned chickpeas
 * 1/2 avocado
 * water
 
@@ -24,7 +24,12 @@ Grain bowls are a delicious, nutritious, and filling meal. They typically contai
 ## Instructions 
 1. Preheat oven to 350 degrees Fahrenheit.  
 2. Rinse brown rice in strainer. 
-2. Cut broccoli and avocado into small pieces using knife. 
-3. Cut tofu into small squares using knife. 
-4. Place rice in pot and fill with water until rice is completely submerged. 
+3. Remove chickpeas from can and drain water. 
+4. Cut broccoli and avocado into small pieces using knife. 
+5. Cut tofu into small squares using knife. 
+6. Place rice in pot and fill with water until rice is completely submerged. 
+7. Place pot on stove and set heat to 'medium'. Let rice cook for 20 minutes, or until it is sufficiently soft. 
+8. When the oven has finished preheating, place broccoli and tofu on baking pan and place in the oven. For extra flavor, add olive oil and salt onto the broccoli. Leave in oven for 45 minutes. 
+9. When all items are finished cooking, mix into bowl. 
+10. Enjoy your meal!
 
